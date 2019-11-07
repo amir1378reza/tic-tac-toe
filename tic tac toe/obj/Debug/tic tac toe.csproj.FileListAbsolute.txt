@@ -1,0 +1,3 @@
+C:\Users\Pardazeshgar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\Pardazeshgar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\Pardazeshgar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
